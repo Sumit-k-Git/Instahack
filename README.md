@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://instagram.com/_sumit.k"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://instagram.com/_sumit.k"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-IndiA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="instahack" src="https://github.com/evildevill/instahack/blob/master/assets/20210219_144319.jpg"></a>
