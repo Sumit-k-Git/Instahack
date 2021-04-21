@@ -2,18 +2,18 @@
 <a href="https://instagram.com/_sumit.k"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-IndiA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="instahack" src="https://github.com/evildevill/instahack/blob/master/assets/20210219_144319.jpg"></a>
+<a href="https://www.youtube.com/channel/UCo5mSt1SzwrHwvJLat8oEiw"><img title="instahack" src="https://github.com/Sumit-k-Git/instahack/blob/master/assets/20210219_144319.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sumit-k-Git"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker wasii-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/Sumit-k-Git"><img title="Github" src="https://img.shields.io/badge/Sumit-k-Git-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/channel/UCo5mSt1SzwrHwvJLat8oEiw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr.Musix -red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Sumit-k-Git"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/Sumit-k-Git"><img title="Followers" src="https://img.shields.io/github/followers/evildevill?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sumit-k-Git"><img title="Stars" src="https://img.shields.io/github/stars/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/Sumit-k-Git"><img title="Forks" src="https://img.shields.io/github/forks/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/Sumit-k-Git"><img title="Watching" src="https://img.shields.io/github/watchers/evildevill/instahack?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Sumit-k-Git"><img title="Followers" src="https://img.shields.io/github/followers/Sumit-k-Git?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sumit-k-Git"><img title="Stars" src="https://img.shields.io/github/stars/Sumit-k-Git/instahack?color=red&style=flat-square"></a>
+<a href="https://github.com/Sumit-k-Git"><img title="Forks" src="https://img.shields.io/github/forks/Sumit-k-Git/instahack?color=red&style=flat-square"></a>
+<a href="https://github.com/Sumit-k-Git"><img title="Watching" src="https://img.shields.io/github/watchers/Sumit-k-Git/instahack?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Sumit-k-Git"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
